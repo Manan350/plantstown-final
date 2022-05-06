@@ -27,16 +27,19 @@ export const sliderItems = [
       id: 1,
       img: "https://images.pexels.com/photos/2069425/pexels-photo-2069425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       title: "Indoor plants",
+      cat:"Indoor plants",
     },
     {
       id: 2,
       img: "https://images.pexels.com/photos/2146109/pexels-photo-2146109.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500 ",
       title: "House plants",
+      cat:"House plants",
     },
     {
       id: 3,
       img: "https://images.pexels.com/photos/1173650/pexels-photo-1173650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       title: "Air Freshener",
+      cat:"Air Freshener",
     },
   ];
 
